@@ -1,0 +1,5 @@
+wild_student/db.sqlite3
+*/static/*
+wild_student/studentapp/migrations/*
+wild_student/wild_student/__pycache__/*
+wild_student/studentapp/__pycache__/*

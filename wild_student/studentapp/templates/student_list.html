@@ -1,0 +1,19 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Course</th>
+        <th scope="col">Email</th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for student in students.values%}
+        <tr>
+            <td>{{student.name}}</td>
+            <td>{{student.course}}</td>
+            <td>{{student.email}}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+

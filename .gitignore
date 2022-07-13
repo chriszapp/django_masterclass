@@ -3,3 +3,7 @@ wild_student/db.sqlite3
 wild_student/studentapp/migrations/*
 wild_student/wild_student/__pycache__/*
 wild_student/studentapp/__pycache__/*
+during_masterclass/wilder_students/student_form/migrations/*
+during_masterclass/wilder_students/wilder_students/__pycache__/*
+during_masterclass/wilder_students/student_form/__pycache__/*
+during_masterclass/wilder_students/db.sqlite3
